@@ -13,6 +13,16 @@ h1{
 
 .navbar-brand img {width:200px;}
 
+#slider
+
 #footer {background-color:#CC9ED1}
 
 #lowerfooter {background-color:#51B8C1}
+
+#lowerfooter i {font-size:40px;color:#000000;margin:10px}
+
+#upperfooter i {font-size:40px;color:#000000;margin:10px}
+
+#upperfooter {background-color:#CC9ED1}
+
+#products {background-color:#51B8C1}
