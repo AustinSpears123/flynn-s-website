@@ -13,11 +13,11 @@ h1{
 
 .navbar-brand img {width:200px;}
 
-#slider
+
 
 #footer {background-color:#CC9ED1}
 
-#lowerfooter {background-color:#CC9ED1}
+#lowerfooter {background-color:#51B8C1}
 
 #lowerfooter i {font-size:40px;color:#000000;margin:10px}
 
@@ -27,7 +27,10 @@ h1{
 
 #products {background-color:#51B8C1}
 
+
+
 .pBox{border:#CC9ED1 1px solid; border-radius:8px}
 .pBox img {z-index:-1}
-.pBox button {z-index:2;position:absolute;width:20%;height:30px;margin-top:-32px;background-color:#51B8C1;border:4px #CC9ED1 solid;color:CC9ED1}
-.pBox button:hover {background-color:#CC9ED1;border:4px #51B8C1 solid;color:#000000}
+.pBox button {z-index:2;position:absolute;width:20%;height:30px;margin-top:-32px;background-color:#177A8D;border:4px #51B8C1 solid;color:CC9ED1}
+.pBox button:hover {background-color:#51B8C1;border:4px #177A8D solid;color:#000000}
+ #products {background-color:#177A8D}
